@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fbfbfb;
+}
+
+/* TASK_1: Insert header CSS class here */
+.header {
+  align-items: center;
+}
+
+/* TASK_2: Insert navbar CSS class here */
+.navbar {
+  align-items: center;
+}
+
+.itemTiles {
+  display: flex;
+  float: left;
+}
+
+footer {
+  background-color: #5a5a5a;
+}
+
+.footerContainer {
+  display: flex;
+  color: white;
+}
+
+.footerLinks {
+  width: 50%;
+}
