@@ -9,8 +9,11 @@ let product1 = {
 
 // let product3 ...
 
-// Declare a product button that relates to the relevant HTML element inside index.html.
-let productButton = document.getElementById("addProductToBasket");
+// Declare an add product button that relates to the relevant HTML element inside index.html.
+let addProductButton = document.getElementById("addProductToBasket");
+
+// Declare a remove product button that relates to the relevant HTML element inside index.html.
+let removeProductButton = document.getElementById("removeProductFromBasket");
 
 // Declare an empty array to store all items added to your basket.
 let basket = [];
@@ -21,18 +24,23 @@ function updateHTML() {
 }
 
 // Write function to add an item to your basket
-function addToBasket(app) {
-  basket.push(app);
+function addProductToBasket(product) {
+  basket.push(product);
   updateHTML();
 }
 
 // Write function to remove an item to your basket
-function removeItem(index) {
+function removeProductFromBasket(index) {
   basket.splice(index, 1);
   updateHTML();
 }
 
-// Add event listener to all buttons with the addToBasket id.
-productButton.addEventListener("click", function () {
-  addToBasket(product);
+// Add event listener to all buttons with the addProductToBasket id.
+addProductButton.addEventListener("click", () => {
+  addToBasket(product1);
+});
+
+// Add event listener to all buttons with the removeProductFromBasket id.
+removeProductButton.addEventListener("click", () => {
+  removeProductFromBasket(basket[-1]);
 });

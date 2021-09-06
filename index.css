@@ -1,3 +1,4 @@
+/* Boilerplate CSS provided */
 * {
   margin: 0;
   padding: 0px;
@@ -9,30 +10,54 @@ body {
   background-color: #fbfbfb;
 }
 
-/* TASK_1: Insert header CSS class here */
-.header {
+/* Checkout Basket styling */
+.basket-box {
+  display: flex;
+  margin-left: 15px;
   align-items: center;
+  height: 50px;
+  width: 55px;
+  position: relative;
+  justify-content: flex-end;
+}
+
+.basket-box p {
+  margin: 0 2px 0 0;
+}
+
+.basket-box ion-icon {
+  font-size: 30px;
+}
+
+.basket-box button:hover {
+  cursor: pointer;
+}
+
+#checkout {
+  padding: 5px;
+  width: 100%;
+}
+
+/* TASK_1: Insert header CSS class here */
+header {
+  
 }
 
 /* TASK_2: Insert navbar CSS class here */
 .navbar {
-  align-items: center;
-}
+  
 
 .itemTiles {
-  display: flex;
-  float: left;
+  
 }
 
 footer {
-  background-color: #5a5a5a;
+  
 }
 
 .footerContainer {
-  display: flex;
-  color: white;
 }
 
-.footerLinks {
-  width: 50%;
+.icon {
+
 }

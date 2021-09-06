@@ -7,27 +7,33 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>BNTA_Cohort_3_Assessment_Centre</title>
     <link rel="stylesheet" href="index.css" />
+    <!-- Source used for the basket icon: -->
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
 </head>
 
 <body>
     <!-- TASK_1: Insert header and page title here -->
     <header>
-        <div class="header">
+        
             <a href="#" class="title"><strong>BNTA_Cohort_3_Assessment_Centre</strong></a>
             
             <!-- TASK_2: Insert Navbar/ Top Menu here.  -->
             <nav class="navbar"> 
             </nav>
 
-        </div>
+       
     </header>
 
     <!-- Main content: List of items  -->
-    <main class="content">
-
-            
-                <!--Basket showing number of items -->
-                <p id="basketNum"></p>
+    <main>
+                <!--Basket showing number of items with Checkout button-->
+                <div class="basket-box">
+                    <p id="basketNum"></p>
+                    <ion-icon name="basket"></ion-icon>
+                        <div class="checkout-button">
+                            <button id="checkout">Checkout</button>
+                        </div>
+                </div>
 
                 <div class="itemTiles">
                     <!--An example Item -->
@@ -38,17 +44,18 @@
                     <p>Product Description</p>
                     <p>£ Product Price</p>
                     <button id="addProductToBasket">Add to basket</button>
+                    <button id="removeProductFromBasket">Remove from basket</button>
                 </div>
     </main>
 
     <!-- Footer -->
     <footer>
         <div class="footerContainer">
-            <div class="footerLinks">
+            
                 <a href="#">
                     <p>About web page</p>
                 </a>
-            </div>
+           
         </div>
     </footer>
 
