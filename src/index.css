@@ -1,0 +1,97 @@
+/* Boilerplate CSS provided */
+* {
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fbfbfb;
+}
+
+/* Checkout Basket styling */
+.basket-box {
+  display: flex;
+  margin-left: 15px;
+  align-items: center;
+  height: 50px;
+  width: 55px;
+  position: relative;
+  justify-content: flex-end;
+}
+
+.basket-box p {
+  margin: 0 2px 0 0;
+}
+
+.basket-box ion-icon {
+  font-size: 30px;
+}
+
+.basket-box button:hover {
+  cursor: pointer;
+}
+
+#checkout {
+  padding: 5px;
+  width: 100%;
+}
+
+/* CODING_TASK_2: header - add css rules to style the classes in your header (excluding the navbar) */
+.header {
+  
+}
+
+.header__title {
+
+}
+
+/* CODING_TASK_4: navbar - add css rules to style the classes in your navbar until you are happy with how it looks. */
+.navbar {
+
+}
+  
+/* CODING_TASKS_6: image/product - add css rules to layout your products and add styling to them */
+
+.products {
+  
+}
+
+.product {
+
+}
+
+.product__icon {
+
+}
+
+.product__title {
+
+}
+
+.product__description {
+
+}
+
+.product__price {
+
+}
+
+/* CODING_TASKS_8: add/remove product buttons - add styling to your add/remove buttons */
+
+.product__add {
+
+}
+
+.product__remove {
+
+}
+
+footer {
+  
+}
+
+.footer__link {
+
+}

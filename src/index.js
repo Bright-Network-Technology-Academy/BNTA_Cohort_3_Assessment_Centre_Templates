@@ -25,13 +25,17 @@ function updateHTML() {
 
 // Write function to add an item to your basket
 function addProductToBasket(product) {
-  basket.push(product);
+  // CODING_TASK_9: Below this line write the code that will take the product
+  // parameter and add it to your pages basket. Make sure you reflect the 
+  // number of items in your basket on your page.
   updateHTML();
 }
 
 // Write function to remove an item to your basket
 function removeProductFromBasket(index) {
-  basket.splice(index, 1);
+  // CODING_TASK_10: Below this line write the code that will take the index
+  // parameter and use it to remove the selected item from your pages basket.
+  // Make sure you reflect the number of items in your basket on your page.
   updateHTML();
 }
 

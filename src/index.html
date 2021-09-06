@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>BNTA_Cohort_3_Assessment_Centre</title>
+    <link rel="stylesheet" href="index.css" />
+    <!-- Source used for the basket icon: -->
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+</head>
+
+<body>
+    <!-- CODING_TASK_1: Insert the HTML elements you would like to be in your pages header -->
+    <header class="header">
+
+        <a href="#" class="header__title"><strong>BNTA_Cohort_3_Assessment_Centre</strong></a>
+
+        <!-- CODING_TASK_3: Create a navbar for your page. The nav bar does not need to take you to different pages.  -->
+        <nav class="navbar">
+        </nav>
+
+
+    </header>
+
+    <!-- Main content: List of items  -->
+    <main>
+        <!-- Basket showing number of items with Checkout button-->
+        <div class="basket-box">
+            <p id="basketNum"></p>
+            <ion-icon name="basket"></ion-icon>
+            <div class="checkout-button">
+                <button id="checkout">Checkout</button>
+            </div>
+        </div>
+
+        <!-- CODING_TASK_5: Add your products for your page within the products div using the below example for inspiration. -->
+
+        <div class="products">
+
+            <!--An example product -->
+            <div class="product">
+                <img class="product__icon" src="../images/gummybears.jpeg" alt="Product Image" />
+                <h4 class="product__title">Product</h4>
+                <p class="product__description">Product Description</p>
+                <p class="product__price">£ Product Price</p>
+                <!-- CODING_TASK_7: Create the add/remove item to/from basket buttons using the below code as inspiration, yours can say anything you want. -->
+                <button id="addProductToBasket" class="product__add">Add to basket</button>
+                <button id="removeProductFromBasket" class="product__remove">Remove from basket</button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <!-- CODING_TASK_11: Add the HTML elements you would like to be displayed in your footer. -->
+        <div class="footer">
+
+            <a href="#" class="footer__link">
+                <p>About web page</p>
+            </a>
+
+        </div>
+    </footer>
+
+    <!-- CODING_TASK_12: If you've made it this far, very well done to you and your group. This task is about having the freedom to get creative and try anything out that you would like to add to your page. Rembember to leave some time for you and your group to prepare for your presentations. -->
+
+    <!-- Import Javascript file -->
+    <script src="./index.js"></script>
+
+</body>
+
+</html>
