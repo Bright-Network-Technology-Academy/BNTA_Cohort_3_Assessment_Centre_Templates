@@ -6,9 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>BNTA_Cohort_3_Assessment_Centre</title>
+    <!-- Linking in the CSS styling file: -->
     <link rel="stylesheet" href="index.css" />
     <!-- Source used for the basket icon: -->
-    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </head>
 
 <body>
@@ -27,13 +29,14 @@
     <!-- Main content: List of items  -->
     <main>
         <!-- Basket showing number of items with Checkout button-->
-        <div class="basket-box">
+        <section class="basket-box">
+            <ion-icon name="basket-outline"></ion-icon>
             <p id="basketNum"></p>
-            <ion-icon name="basket"></ion-icon>
+            <br />
             <div class="checkout-button">
                 <button id="checkout">Checkout</button>
             </div>
-        </div>
+        </section>
 
         <!-- CODING_TASK_5: Add your products for your page within the products div using the below example for inspiration. -->
 
@@ -46,8 +49,8 @@
                 <p class="product__description">Product Description</p>
                 <p class="product__price">£ Product Price</p>
                 <!-- CODING_TASK_7: Create the add/remove item to/from basket buttons using the below code as inspiration, yours can say anything you want. -->
-                <button id="addProductToBasket" class="product__add">Add to basket</button>
-                <button id="removeProductFromBasket" class="product__remove">Remove from basket</button>
+                <button id="addProduct1ToBasket" class="product__add">Add to basket</button>
+                <!--Add removal button here. Hint: Look at the add button above and checkout the JS functionality in index.js. -->
             </div>
         </div>
     </main>
