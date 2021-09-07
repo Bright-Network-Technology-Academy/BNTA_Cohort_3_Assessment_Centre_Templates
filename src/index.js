@@ -41,7 +41,7 @@ function removeProductFromBasket(index) {
 
 // Add event listener to all buttons with the addProductToBasket id.
 addProductButton.addEventListener("click", () => {
-  addToBasket(product1);
+  addProductToBasket(product1);
 });
 
 // Add event listener to all buttons with the removeProductFromBasket id.
