@@ -10,26 +10,28 @@ body {
   background-color: #fbfbfb;
 }
 
-/* Checkout Basket styling */
 .basket-box {
-  display: flex;
-  margin-left: 15px;
-  align-items: center;
-  height: 50px;
-  width: 55px;
-  position: relative;
-  justify-content: flex-end;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 
 .basket-box p {
-  display:flex;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  text-align: center;
+  color: black;
 }
 
 .basket-box ion-icon {
-  font-size: 30px;
+  display: block;
   margin-left: auto;
-  margin-right:auto;
-  width:20%;
+  margin-right: auto;
+  font-size: 40px;
+  color: 	black;
 }
 
 .basket-box button:hover {
@@ -40,7 +42,6 @@ body {
   padding: 5px;
   width: 100%;
 }
-
 /* CODING_TASK_2: header - add css rules to style the classes in your header (excluding the navbar) */
 .header {
   

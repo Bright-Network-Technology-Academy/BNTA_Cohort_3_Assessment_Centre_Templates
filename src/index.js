@@ -5,13 +5,9 @@ let product = {
 
 // Declare an add product button that relates to the relevant HTML element inside index.html.
 let addProduct1Button = document.getElementById("addProduct1ToBasket");
-let addProduct2Button = document.getElementById("addProduct2ToBasket");
-let addProduct3Button = document.getElementById("addProduct3ToBasket");
 
 // Declare a remove product button that relates to the relevant HTML element inside index.html.
 let removeProduct1Button = document.getElementById("removeProduct1FromBasket");
-let removeProduct2Button = document.getElementById("removeProduct2FromBasket");
-let removeProduct3Button = document.getElementById("removeProduct3FromBasket");
 
 // Declare an empty array to store all items added to your basket.
 let basket = [];
@@ -28,7 +24,7 @@ function addProductToBasket(product) {
   // number of items in your basket on your page.
   
   //ENTER CODE HERE
-
+  
   updateHTML();
 }
 
@@ -47,19 +43,10 @@ function removeProductFromBasket(index) {
 addProduct1Button.addEventListener("click", () => {
   addProductToBasket(product);
 });
-addProduct2Button.addEventListener("click", () => {
-  addProductToBasket(product);
-});
-addProduct3Button.addEventListener("click", () => {
-  addProductToBasket(product);
-});
+
+
 // Add event listener to all buttons with the removeProductFromBasket id to remove last item in basket.
 removeProduct1Button.addEventListener("click", () => {
   removeProductFromBasket((basket.length)-1);
 });
-removeProduct2Button.addEventListener("click", () => {
-  removeProductFromBasket((basket.length)-1);
-});
-removeProduct3Button.addEventListener("click", () => {
-  removeProductFromBasket((basket.length)-1);
-});
+
