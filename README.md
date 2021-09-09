@@ -59,6 +59,18 @@ There's two things we would like to see being done when using the trello board:
 1. When an individual in your team is working on a ticket, please make sure that they click the task to open up the menu for that card. Underneath the `ADD TO CARD` section there is a button labeled `Members`. When working on a ticket please add yourself to the `Members` on that card, this is a process used in Software Engineering so team members can quickly see who is working on tasks relating to their project.
 2. Once you're working on a card, please move it to the `Doing` section of the board, then to `Reviewing/Testing` when you feel like you have your solution. Once your solution has been reviewed or tested and is working how you would like it to, please then move the card to the `Done` section. This allows members of your team to quickly see how your project is progressing and what tasks still need to be completed.
 
+## Trello Board Links
+
+- Group 1 - https://trello.com/invite/b/3wINPPWQ/99323b24b57b5b85d7952948316e0f95/bnta-assessment-day-group-1
+
+- Group 2 - https://trello.com/invite/b/5EnznRoH/21cf73d3bc44cf063fb9251f51a3f2a4/bnta-assessment-day-group-2
+
+- Group 3 - https://trello.com/invite/b/0JYrpsdr/56af9f4e301e5526a634cd5a0f9a1445/bnta-assessment-day-group-3
+
+- Group 4 - https://trello.com/invite/b/DNDt3rHR/3d46d172d48fd5179470adba25c29d15/bnta-assessment-day-group-4
+
+- Group 5 - https://trello.com/invite/b/vh1X6l8I/183a07bf2c0e74502ca89eedab446a0b/bnta-assessment-day-group-5
+
 ## Useful resources
 
 - [W3schools](https://www.w3schools.com/) - W3Schools is best used as a reference for HTML, CSS and JavaScript to search syntax and functionality.
