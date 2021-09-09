@@ -12,7 +12,7 @@ Challenges like the one you will complete today will help you improve your codin
 
 ## The challenge
 
-Your challenge is to build out a shop landing page which can be anything from a snacks shop or record shop to whatever excites you. You'll use the designs, code examples and what you've learned so far to guide you through the process but don't be afraid to google things along the way that you don't understand, it sounds silly but it's equally a very important skill to troubleshoot and research answers for your own projects.
+Your challenge is to build out a shop landing page which can be anything from a snacks shop or record shop to whatever excites you. You'll use the designs, code examples and what you've learned so far, to guide you through the process——but don't be afraid to google things along the way that you don't understand. It sounds silly but it is an important skill to be able to troubleshoot and research answers for your own projects.
 
 Your users should be able to: 
 
@@ -24,44 +24,45 @@ Your users should be able to:
 - Remove an item from their shopping basket.
 - See how many items are in their shopping basket.
 
-To collaborate we advise using Live Share, an extension in VSCode. If you haven't installed Live Share already, don't worry, if you open VSCode you should see a panel on the left-hand side of your screen. Click the icon that looks like four little cubes (you can hover your mouse over the icon and it should say extensions to check). In the search bar type 'live share' and install Live Share by Microsoft.
+To collaborate we advise using Live Share, an extension to VSCode. If you haven't installed Live Share already, don't worry. When you open VSCode you should see a panel on the left-hand side of your screen. Click the icon that looks like four little cubes (you can hover your mouse over the icon and it should say "Extensions"). In the search bar type 'live share' and install Live Share by Microsoft.
 
-Another Visual Studio Code extension you may find useful is 'Live Server'. This extension is used to allow the live share host to share their local server with all of the collaborators so that they too can view the HTML webpage. For a short introduction to Live Server and how to setup hot broswer reloading (reloading upon saving of code), please watch this short 3 min video: https://www.youtube.com/watch?v=y4qqQeUDCBQ
+Another Visual Studio Code extension you may find useful is 'Live Server'. This extension is used to allow the Live Share host to share their local server with all of the collaborators——allowing all workers to view the HTML webpage in the browser as if stored locally. For a short introduction to Live Server and how to setup hot browser reloading (reloading upon saving of code), please watch this short 3 min video: https://www.youtube.com/watch?v=y4qqQeUDCBQ
 
-Want some support on the challenge? Mentors are on hand for support but we advise you to follow the process of brain, book, buddy, boss (in this case trainer) so that you give yourself a chance to have a go at the problem. Try to help each other and if you're still stuck, the mentors and trainer will be available to help.
+Want some support on the challenge? Mentors are on-hand to support you but we advise you follow the process of Brain, Book, Buddy, Boss (in this case trainer) so that you first attempt to solve the problem yourself or as a team. Try to help each other and if you're still stuck, the mentors and trainer will be available to help.
 
 ## Where to find everything
 
 Your task is to build out the project using the design inside the `/design` folder as inspiration. You will find a desktop version of an example design to give you an idea of what you're aiming to create.
 
-A `style-guide.md` file has also been included which includes a link to a figma design board that will help to give you a starting point. A link to a website where you can find stock images has also been included alongside a website which will help you decide on a colour palette for the colour scheme of your site. Further down there are also css attributes and small descriptions of what they can be used for to give you an idea of what to google when you are trying to accomplish a task relating to the design of your page.
+A `style-guide.md` file has also been included which includes a link to a Figma design board that will help give you a starting point. A link to a website where you can find stock images has also been included alongside websites which will help you decide on a colour palette for your site. Further down there are also CSS attributes and small descriptions of what they can be used for to give you an idea of what to google when you are trying to accomplish a task relating to the design of your page.
 
-You will find an example asset in the `/images` folder. This image has been referred to within the the img tags src attribute within the index.html starter template found in the src directory. This is so that you can see how to write the relative paths to access any images you store in this directory for use in your site. We recommend that you add your own image assets to the same folder and delete the image already there if you are not using it.
+You will find an example asset in the `/images` folder. This image has been referred to within the the <img> tag's "src" attribute within the index.html starter template found in the `/src` directory. We have provided this so you can see how to write the relative paths to local images for use in your site. We recommend that you add your own image assets to the same folder and delete the image already there if you are not using it.
 
 ## Building your project
 
-We have designed a workflow to guide you through the creation of your site. This can be found in the form of ordered tasks and coding tasks in the trello board that has been distributed to you (don't forget to click on the cards for extra information):
+We have designed a workflow to guide you through the creation of your website. This can be found in the form of ordered tasks and coding tasks in the Trello board that has been distributed to you (don't forget to click on the cards for extra information).
 
 The workflow looks something like this:
 
-1. Download the files from this github: in the form of a zip.
+1. Download the zip file from the Egnyte link provided. Extract the files.
 
-2. Look through the design example to get an idea of how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles e.g. seeing if there are any parts of your website that could be styled the same.
+2. Look through the design example to get an idea of how you'll tackle the project. This step is crucial to help you think ahead for CSS classes and their reusablility e.g. seeing if there are any parts of your website that could be styled the same.
 
-3. Begin working through the tasks on the Trello board, moving the tasks across the board as you complete them. You will first create the HTML for a feature of your website before adding the css, working from the top of the page down. Only move on to the next section once you're happy that you have completed the area you're working on.
+3. Begin working through the tasks on the Trello board, moving the tasks across the board as you complete them. You will first create the HTML for a feature of your website before adding the CSS, working from the top of the page down. Only move on to the next section once you're happy that you have completed the area you're working on.
 
-Do not feel obliged to follow the tickets on the Trello board in order. They've been numbered according to how we've put together an example, but feel free to follow your own workflow for completing the tasks.
+Do not feel obligated to follow the tickets on the Trello board in order. They've been numbered according to how we've put together the example so feel free to follow your own aspirations when completing the tasks.
 
 ## Using the Trello Board
 
-There's two things we would like to see being done when using the trello board:
+There's two things we would like to see being done when using the Trello board. These are NOT optional parts to the assessment days so please read carefully:
 
-1. When an individual in your team is working on a ticket, please make sure that they click the task to open up the menu for that card. Underneath the `ADD TO CARD` section there is a button labeled `Members`. When working on a ticket please add yourself to the `Members` on that card, this is a process used in Software Engineering so team members can quickly see who is working on tasks relating to their project.
+1. When working on a Trello ticket, please make sure that you click the task to open up the menu for that card and assign yourself as a worker (underneath the `ADD TO CARD` section there is a button labeled `Members`). This is a process used in Software Engineering so that team members can quickly see who is working on tasks relating to their project.
+
 2. Once you're working on a card, please move it to the `Doing` section of the board, then to `Reviewing/Testing` when you feel like you have your solution. Once your solution has been reviewed or tested and is working how you would like it to, please then move the card to the `Done` section. This allows members of your team to quickly see how your project is progressing and what tasks still need to be completed.
 
 ## Trello Board Links
 
-Please click on the link that corresponds to your group number. If you haven't already got a Trello account, you will be prompted to make one. Please follow the process of signing up for an account and then proceed to joining your groups trello board.
+Please click on the link that corresponds to your group number. If you haven't already got a Trello account, you will be prompted to make one. Please follow the process of signing up for an account and then proceed to joining your groups' Trello board.
 
 - Group 1 - https://trello.com/invite/b/3wINPPWQ/99323b24b57b5b85d7952948316e0f95/bnta-assessment-day-group-1
 
@@ -75,38 +76,38 @@ Please click on the link that corresponds to your group number. If you haven't a
 
 ## Useful resources
 
-- [W3schools](https://www.w3schools.com/) - W3Schools is best used as a reference for HTML, CSS and JavaScript to search syntax and functionality.
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) - The MDN Web Docs site provides information about HTML, CSS and JavaScript. You may find MDN explanations more helpful in trying to understand what you're currently working with at that time.
+- [W3schools](https://www.w3schools.com/) - W3Schools is best used as a reference for HTML, CSS and JavaScript when searching for syntax and basic explainations of functionality.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) - The MDN Web Docs site provides information about HTML, CSS and JavaScript. You may find that the MDN explanations go into great depth, explaining functionality at a more base-level. They are great for checking what properties relate to one-another and what arguments can be provided.
 
 ## Deploying your project
 
-As mentioned above, there are many ways to host your project for free. If you would like to host your website after the assessment day then you can checkout using our recommended host but we must stress that this is not a requirement of the assessment day and we advise this is left till after the assessment for any that are interested.
+There are many ways to host your project for free. If you would like to host your website after the assessment day then you can check out using our recommended host, GitHub Pages. We do stress however that this is NOT a requirement of the assessment day and that deployment should be left until after the assessment.
 
 - [GitHub Pages](https://pages.github.com/)
 
 ## Create a custom `README.md`
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+We strongly recommend overwriting this `README.md` with a custom one. We have provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. It may be a great starting point for organising your presentations. Please feel free to edit our template as much as you like.
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+Once you have added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. This will make it show up as your repository's README file on Github if you later host your work there.
 
 ## Submitting your solution
 
-Submit your solution 
+Once you've collected all your work into one folder and checked that it works, please zip your files and go to this link to upload them: https://brightnetwork.egnyte.com/ul/N21be9ZOn3
 
-Once you've collected all your work in to one folder and checked that it works, please zip your files and go to this link to upload them: https://brightnetwork.egnyte.com/ul/N21be9ZOn3
+Please ensure that you have collected everybody's work together in one folder before submitting!
 
 ## Preparing for your presentation
 
 - Presentation Time: 4.00pm 
 - Presentation Duration: 5 minutes
 
-- What to present?: What we'd loved to see is for each team member to pick a part of the project that they've worked on and feel pleased with, and spend a minute per person speaking through how their code works.
+What to present: What we would love to see is for each team member to pick a part of the project that they've worked on, and feel pleased with, and to spend a minute speaking through how their code works.
 
 ## Got feedback for us?
 
-We love receiving feedback! We're always looking to improve our challenges and our processes. So if you have anything you'd like to mention, please add it to the assessment day survey that we will be sending out in a couple of weeks to you.
+We love receiving feedback! We're always looking to improve our challenges and our processes. So if you have anything you'd like to mention, please add it to the assessment day survey that we will be sending out in a couple of weeks.
 
 **Have fun building!** 🚀
