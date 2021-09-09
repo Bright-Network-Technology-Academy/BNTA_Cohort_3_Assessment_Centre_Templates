@@ -12,7 +12,7 @@ Challenges like the one you will complete today will help you improve your codin
 
 ## The challenge
 
-Your challenge is to build out a shop landing page which can be anything from a snacks shop, record shop or whatever excites you. You'll use the designs, code examples and what you've learned so far to guide you through the process but don't be afraid to google things along the way that you don't understand, it sounds silly but it's equally a very important skill to troubleshoot and research answers for your own projects.
+Your challenge is to build out a shop landing page which can be anything from a snacks shop or record shop to whatever excites you. You'll use the designs, code examples and what you've learned so far to guide you through the process but don't be afraid to google things along the way that you don't understand, it sounds silly but it's equally a very important skill to troubleshoot and research answers for your own projects.
 
 Your users should be able to: 
 

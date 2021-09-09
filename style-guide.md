@@ -42,7 +42,7 @@ Font-style          - Changes the styling of the font. Can be used for italics
 Padding             - Changes the spacing surrounding the content
 Border              - Changes the border style, colour and width
 Margin              - Changes the outermost spacing property
-Border-radius       - Changes how round a boxes corners are. Setting border-radius: 50% on a square element makes it circular
+Border-radius       - Changes how round a box's corners are. Setting border-radius: 50% on a square element makes it circular
 
 Height              - Sets the height of the element
 Width               - Sets the width of the element
