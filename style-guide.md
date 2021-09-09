@@ -42,7 +42,7 @@ Font-style          - Changes the styling of the font. Can be used for italics
 Padding             - Changes the spacing surrounding the content
 Border              - Changes the border style, colour and width
 Margin              - Changes the outermost spacing property
-Border-radius       - Changes how round a boxe's corners are. Setting border-radius: 50% on a square element makes it circular
+Border-radius       - Changes how round a boxes corners are. Setting border-radius: 50% on a square element makes it circular
 
 Height              - Sets the height of the element
 Width               - Sets the width of the element
@@ -54,9 +54,10 @@ Object-fit          - Changes the way an image sits within their container (eg. 
 Position            - Sets how an element is positioned in a document (default is "position: static". See "absolute" for stacking elements)
 Display             - Sets how an element is displayed, whether inline or as a block. Also changes layout of children
 Display: flex       - Used to create a FlexBox, arranging the child elements according to Flex (1D display type, can give 2D effect)
-Display: grid       - Used to create a CSS Grid, arranging the child elements in a grid (2D display type)
 Justify-content     - Sets how children are positioned relative to the main axis of a FlexBox
 Align-items         - Sets how children are positioned relative to the cross-axis of a FlexBox
+Display: grid       - Used to create a CSS Grid, arranging the child elements in a grid (2D display type)
+
 
 # Colour Value Types
 https://developer.mozilla.org/en-US/docs/Web/HTML/Applying_color
@@ -75,7 +76,7 @@ em                  - A value relative to the sizing of font set on the parent H
 %                   - A value relative to the size of the parent element
 
 # Doritos Example Site
-Below are some of the CSS values we used on the example site to give you an idea of 
+Below are some of the CSS values to give you an idea of:
 
 ## Layout
 
@@ -87,6 +88,9 @@ The designs were created to the following widths:
 
 ### Primary
 
+- Light Grey: rgb(196, 196, 196)
+- Slightly Transparent Black: rgba(0, 0, 0, .9)
+- Tangy Cheese Orange: #f56e08
 - Pink: hsl(322, 100%, 66%)
 - Light Pink: hsl(321, 100%, 78%)
 - Light Red: hsl(0, 100%, 63%)
@@ -110,7 +114,7 @@ The designs were created to the following widths:
 
 ## Icons
 
-For the social icons, you can use a font icon library. Some suggestions can be found below:
+For icons, you can use a font icon library. Some suggestions can be found below:
 
 - [Font Awesome](https://fontawesome.com/)
 - [IcoMoon](https://icomoon.io/)

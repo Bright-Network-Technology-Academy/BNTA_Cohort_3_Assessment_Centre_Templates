@@ -1,3 +1,5 @@
+**Note: This is a README.md template file for you to use to describe the project you have completed. README's are used so that other developers can understand what your project is about. You will commonly see README's used on Github where they will be displayed on a project's repository. Delete this note after reading**
+
 # BNTA - Shop landing page assessment day solution
 
 This is a solution to the Shop landing page BNTA assessment day which will allow you to put the HTML and CSS you've learned in practice with a stretch goal of adding JavaScript functionality to add or remove items from your shopping basket.
@@ -32,9 +34,9 @@ Your users should be able to:
 - Remove an item from their shopping basket.
 - See how many items are in their shopping basket.
 
-### Zip Your Files
+### Screenshot
 
-![](./images/screenshot.jpg)
+![](./design.websiteDoritos.jpeg)
 
 Add a screenshot of your solution. 
 
@@ -56,7 +58,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge and will also serve to guide you through preparing for your presentation.
 
 To see how you can add code snippets, see below:
 
