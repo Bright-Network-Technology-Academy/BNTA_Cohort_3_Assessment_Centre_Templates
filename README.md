@@ -61,6 +61,8 @@ There's two things we would like to see being done when using the trello board:
 
 ## Trello Board Links
 
+Please click on the link that correspons to your group number. If you haven't already got a Trello account, you will be prompted to make one. Please follow the process of signing up for an account and then proceed to joining your groups trello board.
+
 - Group 1 - https://trello.com/invite/b/3wINPPWQ/99323b24b57b5b85d7952948316e0f95/bnta-assessment-day-group-1
 
 - Group 2 - https://trello.com/invite/b/5EnznRoH/21cf73d3bc44cf063fb9251f51a3f2a4/bnta-assessment-day-group-2
