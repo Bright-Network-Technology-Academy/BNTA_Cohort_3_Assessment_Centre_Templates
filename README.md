@@ -12,7 +12,7 @@ Challenges like the one you will complete today will help you improve your codin
 
 ## The challenge
 
-Your challenge is to build out a shop landing page which can be anything from a snacks shop or record shop to whatever excites you. You'll use the designs, code examples and what you've learned so far, to guide you through the process——but don't be afraid to google things along the way that you don't understand. It sounds silly but it is an important skill to be able to troubleshoot and research answers for your own projects.
+Your challenge is to build out a shop landing page which can be anything from a snacks shop or record shop to whatever excites you. The key point is that the Doriots example is simply an example to inspire you but your shop should have your teams personal stamp on it. You'll use the designs, code examples and what you've learned so far, to guide you through the process — but don't be afraid to google things along the way that you don't understand. It sounds silly but it is an important skill to be able to troubleshoot and research answers for your own projects.
 
 Your users should be able to: 
 
@@ -64,26 +64,20 @@ There's two things we would like to see being done when using the Trello board. 
 
 Please click on the link that corresponds to your group number. If you haven't already got a Trello account, you will be prompted to make one. Please follow the process of signing up for an account and then proceed to joining your groups' Trello board.
 
-- Group 1 - https://trello.com/invite/b/3wINPPWQ/99323b24b57b5b85d7952948316e0f95/bnta-assessment-day-group-1
+- Group 1 - https://trello.com/invite/b/UNZMh2Kc/aa8ba6b1d8ae365b006d7338e401f19f/group-1-assessment-day-2
 
-- Group 2 - https://trello.com/invite/b/5EnznRoH/21cf73d3bc44cf063fb9251f51a3f2a4/bnta-assessment-day-group-2
+- Group 2 - https://trello.com/invite/b/TYvkLaGA/e0dd33d00d693f5831f0e3de15457b04/group-2-assessment-day-2
 
-- Group 3 - https://trello.com/invite/b/0JYrpsdr/56af9f4e301e5526a634cd5a0f9a1445/bnta-assessment-day-group-3
+- Group 3 - https://trello.com/invite/b/EH5genNM/575bdfb540794b1a79ce265b0090132d/group-3-assessment-day-2
 
-- Group 4 - https://trello.com/invite/b/DNDt3rHR/3d46d172d48fd5179470adba25c29d15/bnta-assessment-day-group-4
+- Group 4 - https://trello.com/invite/b/JAvQCFD2/f1522d0d7875551a315bce892200290f/group-4-assessment-day-2
 
-- Group 5 - https://trello.com/invite/b/vh1X6l8I/183a07bf2c0e74502ca89eedab446a0b/bnta-assessment-day-group-5
+- Group 5 - https://trello.com/invite/b/GV9Z4xoi/4fafe34a1783f0f4b3dc33a60e0a19b1/group-5-assessment-day-2
 
 ## Useful resources
 
 - [W3schools](https://www.w3schools.com/) - W3Schools is best used as a reference for HTML, CSS and JavaScript when searching for syntax and basic explainations of functionality.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - The MDN Web Docs site provides information about HTML, CSS and JavaScript. You may find that the MDN explanations go into great depth, explaining functionality at a more base-level. They are great for checking what properties relate to one-another and what arguments can be provided.
-
-## Deploying your project
-
-There are many ways to host your project for free. If you would like to host your website after the assessment day then you can check out using our recommended host, GitHub Pages. We do stress however that this is NOT a requirement of the assessment day and that deployment should be left until after the assessment.
-
-- [GitHub Pages](https://pages.github.com/)
 
 ## Create a custom `README.md`
 
@@ -95,16 +89,24 @@ Once you have added your information to the template, delete this file and renam
 
 ## Submitting your solution
 
-Once you've collected all your work into one folder and checked that it works, please zip your files and go to this link to upload them: https://brightnetwork.egnyte.com/ul/N21be9ZOn3
+Once you've collected all your work into one folder and checked that it works, please make sure to zip your files (this ensures that your teams files are all together and in one folder after they are uploaded so we can determine what files relate to each teams project) and go to this link to upload them: https://brightnetwork.egnyte.com/ul/N21be9ZOn3
 
-Please ensure that you have collected everybody's work together in one folder before submitting!
+Please ensure that you have collected everybody's work together in one folder before submitting and ensure that you have zipped and uploaded your files before the presentation.
 
 ## Preparing for your presentation
 
-- Presentation Time: 4.00pm 
-- Presentation Duration: 5 minutes
+- Presentation Time: 3.30pm
+- Presentation Duration: 5 - 7 minutes
 
 What to present: What we would love to see is for each team member to pick a part of the project that they've worked on, and feel pleased with, and to spend a minute speaking through how their code works.
+
+During the presentation we would like one person in each team to share their screen and navigate to the relevant section of their teams code as their team members talk through the parts they worked on as well as talking through their own part when it is their turn to speak. This ensures a smooth presentation rather than jumping between different team members sharing their screen. 
+
+## Deploying your project
+
+There are many ways to host your project for free. If you would like to host your website after the assessment day then you can check out using our recommended host, GitHub Pages. We do stress however that this is NOT a requirement of the assessment day and that deployment should be left until after the assessment.
+
+- [GitHub Pages](https://pages.github.com/)
 
 ## Got feedback for us?
 
